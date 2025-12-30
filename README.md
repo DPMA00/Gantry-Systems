@@ -1,4 +1,4 @@
-# Gantry-Systems
+# Nonlinear Modeling and NMPC Control of 2D and 3D Gantry Systems
 
 ## Overview
 This repository contains a first-principles nonlinear dynamic model and nonlinear model predictive control implementation for gantry crane systems with suspended loads.
